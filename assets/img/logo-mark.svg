@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="80 34 256 206" role="img" aria-label="Pyramid Engineering">
+  <defs>
+    <linearGradient id="pyL" x1="0" y1="0" x2=".6" y2="1">
+      <stop offset="0" stop-color="#F0222A"/><stop offset="1" stop-color="#D5101A"/>
+    </linearGradient>
+    <linearGradient id="pyR" x1="1" y1="0" x2=".3" y2="1">
+      <stop offset="0" stop-color="#E81822"/><stop offset="1" stop-color="#C20C15"/>
+    </linearGradient>
+    <clipPath id="pyC"><polygon points="207,40 326,174 207,222 89,173"/></clipPath>
+    <filter id="pyB" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur stdDeviation="7"/></filter>
+  </defs>
+  <ellipse cx="207" cy="214" rx="104" ry="13" fill="#6B6B6B" opacity=".38" filter="url(#pyB)"/>
+  <polygon points="207,40 207,222 89,173" fill="url(#pyL)"/>
+  <polygon points="207,40 326,174 207,222" fill="url(#pyR)"/>
+  <g clip-path="url(#pyC)" fill="none">
+    <g stroke="#8E0008" stroke-opacity=".32" stroke-width="1.3">
+      <path d="M171.5,80.0 L207,94.7 L242.5,80.0"/>
+      <path d="M164.2,88.2 L207,105.9 L249.8,88.2"/>
+      <path d="M157.0,96.4 L207,117.2 L257.1,96.4"/>
+      <path d="M149.7,104.6 L207,128.4 L264.4,104.6"/>
+      <path d="M142.4,112.8 L207,139.6 L271.7,112.8"/>
+      <path d="M135.1,121.0 L207,150.8 L278.9,121.0"/>
+      <path d="M127.9,129.2 L207,162.0 L286.2,129.2"/>
+      <path d="M120.6,137.4 L207,173.3 L293.5,137.4"/>
+      <path d="M113.3,145.6 L207,184.5 L300.8,145.6"/>
+      <path d="M106.0,153.8 L207,195.7 L308.1,153.8"/>
+      <path d="M98.8,162.0 L207,206.9 L315.3,162.0"/>
+    </g>
+    <g stroke="#FF6B70" stroke-opacity=".28" stroke-width=".9">
+      <path d="M171.5,81.6 L207,96.3 L242.5,81.6"/>
+      <path d="M164.2,89.8 L207,107.5 L249.8,89.8"/>
+      <path d="M157.0,98.0 L207,118.8 L257.1,98.0"/>
+      <path d="M149.7,106.2 L207,130.0 L264.4,106.2"/>
+      <path d="M142.4,114.4 L207,141.2 L271.7,114.4"/>
+      <path d="M135.1,122.6 L207,152.4 L278.9,122.6"/>
+      <path d="M127.9,130.8 L207,163.6 L286.2,130.8"/>
+      <path d="M120.6,139.0 L207,174.9 L293.5,139.0"/>
+      <path d="M113.3,147.2 L207,186.1 L300.8,147.2"/>
+      <path d="M106.0,155.4 L207,197.3 L308.1,155.4"/>
+      <path d="M98.8,163.6 L207,208.5 L315.3,163.6"/>
+    </g>
+  </g>
+  <path d="M207,40 V222" stroke="#9A0009" stroke-opacity=".25" stroke-width="1"/>
+</svg>

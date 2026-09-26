@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Block nothing — this is a public marketing site.
+
+Sitemap: https://www.pyramid-groups.com/sitemap.xml

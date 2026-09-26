@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 186 64" role="img" aria-label="ISO 45001:2018 certified">
+  <circle cx="32" cy="32" r="29" fill="#0E7A3B"/>
+  <circle cx="32" cy="32" r="24.5" fill="none" stroke="#fff" stroke-width="1.6" stroke-dasharray="2.2 2.2"/>
+  <text x="32" y="38.5" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#fff" letter-spacing=".5">ISO</text>
+  <text x="70" y="34" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#0B2545">45001</text>
+  <text x="71" y="55" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#0E7A3B" letter-spacing=".6">CERTIFIED</text>
+</svg>
